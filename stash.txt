@@ -1,0 +1,2 @@
+1. before stash commit
+3. after stash commit
